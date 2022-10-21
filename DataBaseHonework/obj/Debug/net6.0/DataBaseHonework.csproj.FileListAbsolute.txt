@@ -1,0 +1,15 @@
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\bin\Debug\net6.0\DataBaseHonework.exe
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\bin\Debug\net6.0\DataBaseHonework.deps.json
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\bin\Debug\net6.0\DataBaseHonework.runtimeconfig.json
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\bin\Debug\net6.0\DataBaseHonework.dll
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\bin\Debug\net6.0\DataBaseHonework.pdb
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\obj\Debug\net6.0\DataBaseHonework.csproj.AssemblyReference.cache
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\obj\Debug\net6.0\DataBaseHonework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\obj\Debug\net6.0\DataBaseHonework.AssemblyInfoInputs.cache
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\obj\Debug\net6.0\DataBaseHonework.AssemblyInfo.cs
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\obj\Debug\net6.0\DataBaseHonework.csproj.CoreCompileInputs.cache
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\obj\Debug\net6.0\DataBaseHonework.dll
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\obj\Debug\net6.0\refint\DataBaseHonework.dll
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\obj\Debug\net6.0\DataBaseHonework.pdb
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\obj\Debug\net6.0\DataBaseHonework.genruntimeconfig.cache
+C:\Users\korol\RiderProjects\DataBaseHonework\DataBaseHonework\obj\Debug\net6.0\ref\DataBaseHonework.dll
